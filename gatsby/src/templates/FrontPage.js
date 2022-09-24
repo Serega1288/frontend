@@ -17,8 +17,8 @@ const FrontPage = props => {
     const posts = data.posts.nodes;
     return (
         <Layout>
-            <Meta title="Home" />
-            <BlogPosts posts={posts} />
+            <Meta title="Home" />qwweer22211
+            <BlogPosts posts={posts} />2222
             <Pagination pageContext={pageContext} />
         </Layout>
     );

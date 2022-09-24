@@ -4,85 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15c63177-aee7-4b00-b35e-b69d55237816" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gatsby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.idea/gatsby.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/functions/sendEmail/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/functions/sendEmail/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/functions/sendEmail/sendEmail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/functions/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/gatsby-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/gatsby-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/netlify.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/assets/fonts/BalsamiqSansBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/BlogPosts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/CategoryFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/ItemCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Meta.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/Pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/components/SignupForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/hooks/useForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/pages/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/pages/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/pages/postone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/CategoryFilterStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/FooterStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/FormStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/GlobalStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/ItemGridStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/PaginationStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/styles/SinglePostStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/templates/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/templates/FrontPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/templates/SingleCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/src/templates/SinglePost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby/static/gatsby-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/.idea/sanity.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/config/.checksums" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/config/@sanity/data-aspects.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/config/@sanity/default-layout.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/config/@sanity/default-login.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/config/@sanity/form-builder.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/config/@sanity/google-maps-input.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/dist/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/dist/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/dist/static/js/app.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/dist/static/js/vendor.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/sanity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/schemas/categoty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/schemas/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/schemas/schema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/test-data/production.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sanity/yarn.lock" afterDir="false" />
+    <list default="true" id="15c63177-aee7-4b00-b35e-b69d55237816" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby/src/templates/FrontPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby/src/templates/FrontPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,8 +58,23 @@
       <workItem from="1663597348934" duration="22000" />
       <workItem from="1663597373754" duration="76000" />
       <workItem from="1663928555478" duration="896000" />
-      <workItem from="1663929527271" duration="303000" />
+      <workItem from="1663929527271" duration="5469000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1663930095227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663930095227</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <created>1664028273318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664028273318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
