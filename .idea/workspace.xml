@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15c63177-aee7-4b00-b35e-b69d55237816" name="Changes" comment="pwa config">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.idea/gatsby.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.prettierignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/functions/sendEmail/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/functions/sendEmail/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/functions/sendEmail/sendEmail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/functions/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/gatsby-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/gatsby-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/netlify.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/assets/fonts/BalsamiqSansBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/BlogPosts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/CategoryFilter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/ItemCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/Meta.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/Pagination.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/components/SignupForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/hooks/useForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/pages/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/pages/404.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/pages/postone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/CategoryFilterStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/FooterStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/FormStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/GlobalStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/ItemGridStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/PaginationStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/styles/SinglePostStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/templates/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/templates/FrontPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/templates/SingleCategory.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/src/templates/SinglePost.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby.old/static/gatsby-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-    </list>
+    <list default="true" id="15c63177-aee7-4b00-b35e-b69d55237816" name="Changes" comment="pwa config" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +58,7 @@
       <workItem from="1663597373754" duration="76000" />
       <workItem from="1663928555478" duration="896000" />
       <workItem from="1663929527271" duration="10567000" />
-      <workItem from="1664038534580" duration="707000" />
+      <workItem from="1664038534580" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1663930095227</created>
@@ -153,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664038275889</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pwa config">
+      <created>1664039468454</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664039468454</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
