@@ -24,25 +24,6 @@ module.exports = {
                 watchMode: true,
                 token: process.env.SANYTY_TOKEN,
             }
-        },
-        {
-            resolve: `gatsby-plugin-manifest`,
-            options: {
-                name: `GatsbyJS`,
-                short_name: `GatsbyJS`,
-                start_url: `/`,
-                background_color: `#f7f0eb`,
-                theme_color: `#a2466c`,
-                display: `standalone`,
-            },
-        },
-        {
-            resolve: `gatsby-plugin-offline`,
-            options: {
-                workboxConfig: {
-                    globPatterns:  ['*.html'],
-                },
-            },
-        },
+        }
     ]
 };
